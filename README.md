@@ -1,4 +1,5 @@
-#  Alzheimer’s Disease Progression Prediction Using Clinical and Genetic Data (ADNI)
+
+#Early Prediction of Alzheimer’s Disease Progression Using Clinical and Genetic Data (ADNI)
 
 ##  Overview
 The project predicts Alzheimer's disease progression using clinical and genetic data from the ADNI (Alzheimer’s Disease Neuroimaging Initiative) dataset using clinical and genetic data.
