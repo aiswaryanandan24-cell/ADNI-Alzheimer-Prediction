@@ -15,11 +15,18 @@ The workflow includes:
 
 ---
 
- Research Objective
+## Research Objective
 
 Can baseline clinical and genetic features predict Alzheimer's disease progression using ADNI data?
  
 ---
+## Problem Statement
+
+Early detection of Alzheimer’s disease progression is critical for timely intervention. 
+However, clinical diagnosis is often delayed due to subtle early symptoms.
+
+This project aims to build a machine learning model to predict disease progression 
+using clinical and genetic biomarkers from the ADNI dataset.
 
 ##  Dataset
 
